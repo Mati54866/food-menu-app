@@ -7,7 +7,7 @@ This is a CRUD application designed to manage meal notes. The application allows
 ## Getting Started
 
 > [!NOTE]
-> To run this project, make sure you have Node.js and npm (or yarn) installed.
+> To run this project, make sure you have node.js and npm (or yarn) installed.
 ### Backend Setup
 
 ---
