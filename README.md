@@ -16,7 +16,7 @@
 
 ---
 
-## 📋 Table of Contents
+## 📋 Table of Content
 
 1. [✨ Overview](#overview)
 2. [⚙️ Tech Stack](#tech-stack)
